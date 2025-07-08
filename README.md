@@ -75,8 +75,3 @@ This project demonstrates how to fine-tune the BLIP2 (Bootstrapped Language-Imag
    ```
 3. The fine-tuned model will be saved in `./blip2_lora_finetuned`.
 
----
-
-For more details on PEFT, LoRA, quantization, and BLIP2, refer to the official documentation:
-- [PEFT](https://github.com/huggingface/peft)
--
